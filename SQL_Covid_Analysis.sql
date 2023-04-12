@@ -112,7 +112,6 @@ order by 2,3
 
 
 
-
 --Total Population vs Vaccination 
 --finding total_vaccinations that were done till that day using new_vaccinations, date, location
 
