@@ -1,6 +1,7 @@
 create database CovidProject;
 
 --data for Covid
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 select * from CovidProject..CovidDeaths 
 where continent is not null  --as when continent column has null values the location column has Continent names instead of Country names
